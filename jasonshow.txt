@@ -1,0 +1,1 @@
+[{"Case": "Route", "Scenario": "DEU_Merging_Interaction", "Data": [{"ID": 22, "Start": 36200, "END": 41900}, {"ID": 25, "Start": 41900, "END": 55500}]}]
